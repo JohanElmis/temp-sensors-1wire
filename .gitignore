@@ -1,0 +1,14 @@
+# ESPHome secrets and build artifacts
+esphome/secrets.yaml
+esphome/.esphome/
+esphome/**/.esphome/
+*.bin
+
+# Python
+__pycache__/
+
+# Claude Code local settings
+.claude/
+
+# Mac
+.DS_Store
